@@ -256,6 +256,8 @@ td, th {
     margin: 2em auto;
 }
 
+/* Área para converter o site de cosole para mobile */
+
 @media screen and (max-width: 480px) {
     .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video {
         width: auto;
